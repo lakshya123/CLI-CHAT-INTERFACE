@@ -6,7 +6,7 @@ Functionalities
 
 1) Creating a CLI Chat Interface for exchanging messages on a Server.
 2) Running System Commands on another machine using ProcessBuilder library.
-3) Additonal functionlity to return the list of online users.
+3) Additonal functionality to return the list of online users.
 
 Modified Commands
 -----------------
